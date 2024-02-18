@@ -6,7 +6,7 @@ I'm a software developer passionate about Golang, JavaScript, Blockchain, and De
 
 💼 I'm open to collaborating on projects related to web development, blockchain, or cloud infrastructure.
 
-📫 You can reach me via [email](alijabbar0034@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/ali-jabbar-golang-developer/).
+📫 You can reach me via email at alijabbar0034@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/ali-jabbar-golang-developer/).
 
 ⚡ Fun fact: I enjoy learning new technologies and coding in my free time!
 
