@@ -8,7 +8,7 @@ I'm a software developer passionate about Golang, JavaScript, Blockchain, and De
 
 📫 You can reach me via email at alijabbar0034@gmail.com or connect with me on [LinkedIn]([https://www.linkedin.com/in/ali-jabbar-golang-developer/]).
 
-⚡ Fun fact: I enjoy outdoor activities like hiking and camping in my free time!
+⚡ Fun fact: I enjoy learning new technologies and coding in my free time!
 
 Feel free to explore my GitHub repositories and reach out if you'd like to collaborate or discuss tech ideas!
 
