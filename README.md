@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alijabbar034&label=Profile%20views&color=0e75b6&style=flat" alt="alijabbar034" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alijabbar034" alt="alijabbar034" /></a> </p>
-
 - 🔭 I’m currently working on **Golang, JavaScript, Blockchain, and DevOps**
 
 - 🌱 I’m currently learning **Golang, Javascript , Typescript , AWS , Devops technologies**
@@ -19,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ali jabbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali jabbar" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alijabbar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alijabbar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
